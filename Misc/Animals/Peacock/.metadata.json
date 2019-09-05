@@ -1,0 +1,207 @@
+{
+    "_PeacockBtm2.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 18896.802556037903
+            },
+            "lastPrintTime": {
+                "_default": 18896.802556037903
+            }
+        },
+        "hash": "eeca7587b1221f51dbd5ed410dcca19b89fea4f1",
+        "analysis": {
+            "estimatedPrintTime": 14531.508743210874,
+            "printingArea": {
+                "maxZ": 119.9,
+                "maxX": 177.246,
+                "maxY": 167.604,
+                "minX": 35.473,
+                "minY": 22.079,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 141.77300000000002,
+                "depth": 145.525,
+                "height": 119.60000000000001
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 138.55459771304976,
+                    "length": 57604.307890000695
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1567097199.858545,
+                "printTime": 18896.802556037903,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "_PeacockTop1.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 8349.000121831894
+            },
+            "lastPrintTime": {
+                "_default": 8349.000121831894
+            }
+        },
+        "hash": "475cbc668d9f606959296d0b8cb70cfdefff2a7b",
+        "analysis": {
+            "estimatedPrintTime": 6191.984630125565,
+            "printingArea": {
+                "maxZ": 106.61,
+                "maxX": 169.565,
+                "maxY": 172.405,
+                "minX": 21.885,
+                "minY": 45.402,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 147.68,
+                "depth": 127.003,
+                "height": 106.31
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 45.72496460071786,
+                    "length": 19010.23121999982
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1566960469.237754,
+                "printTime": 8349.000121831894,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "_PeacockTop2.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 7915.658416986465
+            },
+            "lastPrintTime": {
+                "_default": 7915.658416986465
+            }
+        },
+        "hash": "ecae0e85de941b64010efece1b5419e3fa6f7a9c",
+        "analysis": {
+            "estimatedPrintTime": 5904.693585329608,
+            "printingArea": {
+                "maxZ": 106.61,
+                "maxX": 180.257,
+                "maxY": 166.172,
+                "minX": 32.663,
+                "minY": 39.112,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 147.594,
+                "depth": 127.06,
+                "height": 106.31
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 44.796685002419146,
+                    "length": 18624.297409999886
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1567041771.551079,
+                "printTime": 7915.658416986465,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "_PeacockBtm3.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 7764.142842054367
+            },
+            "lastPrintTime": {
+                "_default": 7764.142842054367
+            }
+        },
+        "hash": "131b92ffacfa53217317417c1bb421c726b1ab47",
+        "analysis": {
+            "estimatedPrintTime": 5640.94222607352,
+            "printingArea": {
+                "maxZ": 111.41,
+                "maxX": 167.069,
+                "maxY": 150.672,
+                "minX": 49.151,
+                "minY": 49.193,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 117.91799999999998,
+                "depth": 101.479,
+                "height": 111.11
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 45.92492357234564,
+                    "length": 19093.364500000167
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1566951262.211628,
+                "printTime": 7764.142842054367,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "_PeacockBtm1_raft.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 7719.412894964218
+            },
+            "lastPrintTime": {
+                "_default": 7719.412894964218
+            }
+        },
+        "hash": "e370d7d648cd71c94b1933a9d037d2203f713754",
+        "analysis": {
+            "estimatedPrintTime": 5613.860262432518,
+            "printingArea": {
+                "maxZ": 111.41,
+                "maxX": 156.194,
+                "maxY": 151.297,
+                "minX": 39.373,
+                "minY": 48.496,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 116.821,
+                "depth": 102.80099999999999,
+                "height": 111.11
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 45.48439405616361,
+                    "length": 18910.21360999984
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1566943227.273116,
+                "printTime": 7719.412894964218,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

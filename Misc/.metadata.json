@@ -1,0 +1,43 @@
+{
+    "SailboatPendant.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 1455.5483739376068
+            },
+            "lastPrintTime": {
+                "_default": 1455.5483739376068
+            }
+        },
+        "hash": "ab20296c200d1e9261b4f42ffa84225335adf753",
+        "analysis": {
+            "estimatedPrintTime": 895.8192061055042,
+            "printingArea": {
+                "maxZ": 10.1,
+                "minX": 79.25,
+                "maxX": 130.803,
+                "maxY": 133.133,
+                "minY": 72.337,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 51.553,
+                "depth": 60.79600000000001,
+                "height": 9.799999999999999
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 3.419023279437559,
+                    "length": 1421.4647000000002
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1566522997.819547,
+                "printTime": 1455.5483739376068,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}
